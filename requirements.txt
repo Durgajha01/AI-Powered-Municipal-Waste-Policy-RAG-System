@@ -1,0 +1,5 @@
+faiss-cpu
+scikit-learn
+pandas
+numpy
+anthropic   # optional — only needed if you use backend="anthropic" in rag.py
